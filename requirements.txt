@@ -3,7 +3,4 @@ pandas
 joblib
 scikit-learn
 imbalanced-learn
-numpy
-matplotlib
-seaborn
-creditcard_dataset @ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
