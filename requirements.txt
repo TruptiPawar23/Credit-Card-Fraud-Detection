@@ -6,4 +6,4 @@ imbalanced-learn
 numpy
 matplotlib
 seaborn
-creditcard_dataset @ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?select=creditcard.csv
+creditcard_dataset @ https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
