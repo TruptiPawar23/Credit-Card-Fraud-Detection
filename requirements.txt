@@ -6,3 +6,4 @@ imbalanced-learn
 numpy
 matplotlib
 seaborn
+creditcard data set
